@@ -23,12 +23,12 @@ Insert gif or link to demo
 
 /formA
 
+![Screenshot 2024-06-17 175938](https://github.com/get-amigo/Amigo-Web/assets/125492105/2286f43c-3046-4666-a0b0-244b3304bca2)
 
-![Screenshot 2024-06-17 175938](https://github.com/sruthin21/MedWander_Full_Stack/assets/125492105/cd00c618-a097-4c72-a2de-3ccedfcf4c1d)
 
 /formB
+![Screenshot 2024-06-17 180102](https://github.com/get-amigo/Amigo-Web/assets/125492105/b4b8b851-8d5a-4d2b-9c76-5e21fa3b0567)
 
-![Screenshot 2024-06-17 180102](https://github.com/sruthin21/MedWander_Full_Stack/assets/125492105/f9cd2081-1e76-47e1-981f-76063e7a8f68)
 
 ## API Reference
 
