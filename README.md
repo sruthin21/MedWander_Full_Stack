@@ -19,7 +19,7 @@
 
 Insert gif or link to demo
 
-![Screenshot 2024-06-17 175736](https://github.com/sruthin21/MedWander_Full_Stack/assets/125492105/4aa937ec-bcf6-4f10-8c00-b117fd1f5e99)
+![Screenshot 2024-06-17 175736](https://github.com/get-amigo/Amigo-Web/assets/125492105/1c884eb4-845b-4418-9921-3b7017e71bc9)
 
 /formA
 
