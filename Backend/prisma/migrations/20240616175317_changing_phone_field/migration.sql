@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "FormA" ALTER COLUMN "PhoneNumber" SET DATA TYPE TEXT;
+
+-- AlterTable
+ALTER TABLE "FormB" ALTER COLUMN "PhoneNumber" SET DATA TYPE TEXT;
